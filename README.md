@@ -1,1 +1,3 @@
-# Smart Carpark System\n\nA prototype for Moondalup City to track parking bays using OOP and sensors.
+# Smart Carpark System
+
+Prototype for City of Moondalup: Tracks parking bays, stores license plates, and displays updates.
